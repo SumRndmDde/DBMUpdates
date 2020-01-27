@@ -1,0 +1,5 @@
+{
+	"libsodium-wrappers": "latest",
+	"opusscript": "latest",
+	"ytdl-core": "latest"
+}
