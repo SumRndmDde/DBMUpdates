@@ -1,0 +1,7 @@
+  
+{
+  "@discordjs/voice": "^0.5.5",
+	"@discordjs/opus": "^0.5.3",
+	"libsodium-wrappers": "latest",
+	"ytdl-core": "latest"
+}
