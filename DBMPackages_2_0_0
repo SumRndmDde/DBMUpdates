@@ -1,0 +1,5 @@
+{
+	"discord.js": "^13.1.0",
+	"fstorm": "latest",
+	"jimp": "latest"
+}
