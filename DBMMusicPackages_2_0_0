@@ -1,7 +1,8 @@
-  
 {
-	"@discordjs/voice": "^0.5.6",
+	"@discordjs/voice": "^0.6.0",
 	"@discordjs/opus": "^0.5.3",
-	"libsodium-wrappers": "latest",
-	"ytdl-core": "latest"
+	"ffmpeg-static": "^4.4.0",
+	"tweetnacl": "^1.0.3",
+	"youtube-dl-exec": "^1.2.5",
+	"ytdl-core": "^4.9.1"
 }
