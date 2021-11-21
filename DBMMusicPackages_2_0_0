@@ -1,5 +1,5 @@
 {
-	"@discordjs/voice": "^0.6.0",
+	"@discordjs/voice": "^0.7.5",
 	"@discordjs/opus": "^0.6.0",
 	"ffmpeg-static": "^4.4.0",
 	"tweetnacl": "^1.0.3",
