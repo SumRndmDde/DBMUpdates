@@ -1,8 +1,8 @@
 {
-	"@discordjs/voice": "^0.7.5",
-	"@discordjs/opus": "^0.6.0",
-	"ffmpeg-static": "^4.4.0",
-	"tweetnacl": "^1.0.3",
-	"youtube-dl-exec": "^1.2.12",
-	"ytdl-core": "^4.9.1"
+	"@discordjs/voice": "latest",
+	"@discordjs/opus": "latest",
+	"ffmpeg-static": "latest",
+	"tweetnacl": "latest",
+	"youtube-dl-exec": "latest",
+	"ytdl-core": "latest"
 }
