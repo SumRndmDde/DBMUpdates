@@ -3,6 +3,6 @@
 	"@discordjs/opus": "latest",
 	"ffmpeg-static": "latest",
 	"tweetnacl": "latest",
-	"youtube-dl-exec": "latest",
-	"ytdl-core": "latest"
+	"youtube-dl-exec": "^2.0.2",
+	"ytdl-core": "^4.10.0"
 }
